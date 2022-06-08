@@ -1,2 +1,2 @@
 # home-control
-Project to make living with other people more bearable
+A simple web based project to make living with many people a little bit better.
